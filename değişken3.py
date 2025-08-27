@@ -1,3 +1,3 @@
-mesaj=input("İsminiz: ")
+mesaj=input("Merhaba İsminiz ?: ")
 
-print("Giriş Başarili, Hoşgeldiniz "+mesaj)
+print(f"Merhaba Giriş başarılı hosgeldiniz {mesaj.capitalize()}")
